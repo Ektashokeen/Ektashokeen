@@ -28,13 +28,15 @@ Currently, I am actively seeking an **entry-level Data Analyst, BI Analyst, or J
 
 ### 📈 GitHub Stats
 
-*These stats will automatically update based on your activity. The username is set to 'Ektashokeen'.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ektashokeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ekta's GitHub Stats" style="width: 48%;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ektashokeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 48%;"/>
+</p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ektashokeen&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ekta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ektashokeen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ektashokeen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ektashokeen&theme=flat&no-frame=true" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -43,5 +45,4 @@ Currently, I am actively seeking an **entry-level Data Analyst, BI Analyst, or J
 I'm always open to discussing new data challenges, industry trends, and job opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekta-shokeen/)
-[![Gmail (Primary)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekta06@gmail.com)
 [![Gmail (Secondary)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shokeenekta1@gmail.com)
