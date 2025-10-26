@@ -34,10 +34,6 @@ Currently, I am actively seeking an **entry-level Data Analyst, BI Analyst, or J
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ektashokeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 48%;"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ektashokeen&theme=flat&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
