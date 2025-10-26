@@ -10,12 +10,12 @@ Currently, I am actively seeking an **entry-level Data Analyst, BI Analyst, or J
 
 ### 💻 Core Analytics Stack & Proficiencies
 
-| Category | Skills & Tools | Focus Area |
-| :---: | :--- | :--- |
-| **Data Visualization & BI** | **Power BI** (Highly Proficient), Tableau, Looker Studio | Developing interactive reports to communicate performance metrics and key trends. |
-| **Data Querying & Warehousing** | **SQL** (Advanced Querying, Stored Procedures), Snowflake, DBMS principles | Efficient data manipulation and solid understanding of relational database design. |
-| **Advanced Analytics & Modeling** | **Python** (Pandas, NumPy, Scikit-learn), R, Statistical Modeling, Foundational ML | Advanced data analysis, implementing predictive models, and statistical testing. |
-| **ETL & Cloud** | Azure Data Factory, SSIS, Basic familiarity with AWS/GCP data services. | Data extraction, transformation, and loading processes. |
+| Category | Languages & Tools |
+| :---: | :--- |
+| **Data Visualization & BI** | [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) |
+| **Programming & Modeling** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) |
+| **Data Querying & Warehousing** | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL) [![Snowflake](https://img.shields.io/badge/Snowflake-282C34?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/) |
+| **Cloud & ETL** | [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) |
 
 ---
 
@@ -28,11 +28,14 @@ Currently, I am actively seeking an **entry-level Data Analyst, BI Analyst, or J
 
 ### 📈 GitHub Stats
 
+*Your stats are presented side-by-side for a clean, professional look.*
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ektashokeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ekta's GitHub Stats" style="width: 48%;"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ektashokeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 48%;"/>
 </p>
+
 
 ---
 
